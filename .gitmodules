@@ -1,0 +1,60 @@
+[submodule "accounting"]
+	path = accounting
+	url = https://github.com/mifosio/accounting
+[submodule "anubis"]
+	path = anubis
+	url = https://github.com/mifosio/anubis
+[submodule "api"]
+	path = api
+	url = https://github.com/mifosio/api
+[submodule "command"]
+	path = command
+	url = https://github.com/mifosio/command
+[submodule "crypto"]
+	path = crypto
+	url = https://github.com/mifosio/crypto
+[submodule "customer"]
+	path = customer
+	url = https://github.com/mifosio/customer
+[submodule "demo-server"]
+	path = demo-server
+	url = https://github.com/mifosio/demo-server
+[submodule "group"]
+	path = group
+	url = https://github.com/mifosio/group
+[submodule "identity"]
+	path = identity
+	url = https://github.com/mifosio/identity
+[submodule "lang"]
+	path = lang
+	url = https://github.com/mifosio/lang
+[submodule "mariadb"]
+	path = mariadb
+	url = https://github.com/mifosio/mariadb
+[submodule "office"]
+	path = office
+	url = https://github.com/mifosio/office
+[submodule "portfolio"]
+	path = portfolio
+	url = https://github.com/mifosio/portfolio
+[submodule "provisioner"]
+	path = provisioner
+	url = https://github.com/mifosio/provisioner
+[submodule "rhythm"]
+	path = rhythm
+	url = https://github.com/mifosio/rhythm
+[submodule "service-starter"]
+	path = service-starter
+	url = https://github.com/mifosio/service-starter
+[submodule "template"]
+	path = template
+	url = https://github.com/mifosio/template
+[submodule "test"]
+	path = test
+	url = https://github.com/mifosio/test
+[submodule "test-accounting-portfolio"]
+	path = test-accounting-portfolio
+	url = https://github.com/mifosio/test-accounting-portfolio
+[submodule "test-provisioner-identity-organization"]
+	path = test-provisioner-identity-organization
+	url = https://github.com/mifosio/test-provisioner-identity-organization
